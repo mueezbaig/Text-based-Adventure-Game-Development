@@ -12,7 +12,6 @@ Welcome to "The Space Explorer" – a captivating text-based adventure game wher
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -32,4 +31,34 @@ Welcome to "The Space Explorer" – a captivating text-based adventure game wher
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/space-explorer.git
+
+## Run the Game
+
+To play "The Space Explorer," follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/space-explorer.git
+2. Run the file
+   ```bash
+   python space_explorer.py
+
+## How to Play
+
+Follow the prompts during the game to make decisions and shape the outcome of your space exploration mission.
+
+### Explore Different Paths:
+
+Experiment with different choices to experience various story paths and reach different endings.
+
+## Installation
+
+Ensure you have Python installed on your machine. The game uses the standard Python library, so no additional dependencies are required.
+
+## License
+
+"The Space Explorer" is licensed under the [MIT License](LICENSE).
+
+
+
 
