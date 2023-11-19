@@ -1,12 +1,6 @@
 # Text-based-Adventure-Game-Development
 Welcome to "The Space Explorer" – a captivating text-based adventure game where you take on the role of Captain Mueez, an astronaut on a solo mission in deep space. Your ship, the Starlight Voyager, is malfunctioning, and your decisions will determine your survival.
 
-# The Space Explorer
-
-![Game Logo/Artwork](link_to_your_image.png)
-
-Welcome to "The Space Explorer" – a captivating text-based adventure game where you embark on a thrilling journey through the cosmos. As Captain Mueez, you must navigate your malfunctioning spaceship, make crucial decisions, and explore the mysteries of deep space.
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
